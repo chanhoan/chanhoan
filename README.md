@@ -10,7 +10,7 @@
 - SSAFY 12기
 *** 
 ### 포트폴리오
-[Portfolio]((https://diamond-armadillo-65d.notion.site/8150331ce74e4f72812e8f51469ef64e?pvs=4))
+[Portfolio](https://diamond-armadillo-65d.notion.site/8150331ce74e4f72812e8f51469ef64e?pvs=4)
 ***
 ### 이력서
 [이력서](https://github.com/chanhoan/chanhoan_Github/blob/main/%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf)
