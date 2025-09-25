@@ -4,7 +4,7 @@
 
 최근에는 **`Spring Cloud`** / **`Architecture`** 개발에 관심이 많습니다.
 
-저에 대해 자세히 알고 싶은가요? 👉 **[포트폴리오](https://drive.google.com/file/d/1aeRqHdtcsyGVNqPyx5Lzm4YsJiNQ_KEO/view?usp=drive_link),**
+저에 대해 자세히 알고 싶은가요? 👉 **[포트폴리오](https://drive.google.com/file/d/1M4F8rfcGKevISQZrCzC4tPt7WVDPnqj9/view?usp=sharing),**
 
 - API가 실제 서비스에서 동작하고, 데이터가 흘러갈 때 개발의 의미를 느낍니다.
 - 기술 선택에는 항상 이유가 있어야 한다고 생각하며, 그런 이유를 함께 만드는 토론을 좋아합니다.
