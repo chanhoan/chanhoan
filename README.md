@@ -4,8 +4,6 @@
 
 저에 대해 자세히 알고 싶은가요? 👉 **[포트폴리오](https://drive.google.com/file/d/1M4F8rfcGKevISQZrCzC4tPt7WVDPnqj9/view?usp=sharing),**
 
-<br>
-
 ### 🔋 Tech Stacks
 **Backend**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
