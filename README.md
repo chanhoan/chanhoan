@@ -2,27 +2,7 @@
 
 안녕하세요 :) **Bank-end 개발자 정찬환**입니다. 👋🏻
 
-저에 대해 자세히 알고 싶은가요? 👉 **[포트폴리오](https://drive.google.com/file/d/1M4F8rfcGKevISQZrCzC4tPt7WVDPnqj9/view?usp=sharing),**
-
-### 🔋 Tech Stacks
-**Backend**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps / Infra**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+저에 대해 자세히 알고 싶은가요? 👉 **[포트폴리오](https://drive.google.com/file/d/1M4F8rfcGKevISQZrCzC4tPt7WVDPnqj9/view?usp=sharing),** **[블로그](https://velog.io/@chanhoan/posts),**
 
 <br>
 
