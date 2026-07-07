@@ -21,3 +21,5 @@
 ### 💼 커리어
 
 - (주)커머스톤 : 2026.02.09 ~ ```FullStack Developer```
+
+![TokenPhage](https://api.tokenphage.com/badge/chanhoan?theme=claude&mode=dark)
