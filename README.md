@@ -1,3 +1,5 @@
+![Tokenphage](https://api.tokenphage.com/badge/chanhoan?theme=beta-tester&mode=purple)
+
 ### 소개
 
 안녕하세요 :) **Bank-end 개발자 정찬환**입니다. 👉 **[포트폴리오](https://drive.google.com/file/d/1M4F8rfcGKevISQZrCzC4tPt7WVDPnqj9/view?usp=sharing),** **[블로그](https://velog.io/@chanhoan/posts),**
@@ -22,4 +24,4 @@
 
 - (주)커머스톤 : 2026.02.09 ~ ```FullStack Developer```
 
-![TokenPhage](https://api.tokenphage.com/badge/chanhoan?theme=grass-claude&mode=dark)
+![Tokenphage](https://api.tokenphage.com/badge/chanhoan?theme=grass-claude&mode=dark)
