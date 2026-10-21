@@ -22,6 +22,6 @@
 
 ### 💼 커리어
 
-- (주)커머스톤 : 2026.02.09 ~ ```FullStack Developer```
+- (주)사피엔스 : 2026.02.09 ~ ```FullStack Developer```
 
 ![Tokenphage](https://api.tokenphage.com/badge/chanhoan?theme=grass-claude&mode=dark)
